@@ -19,7 +19,7 @@
     ·
     <a href="https://github.com/AgoniaMIAGE/Agonia/issues">🌟Request Feature</a>
     .
-    <a href="https://github.com/AgoniaMIAGE/Agonia">🎮Repository officiel</a>
+    <a href="https://github.com/AgoniaMIAGE/Agonia">👨‍💻Repository officiel</a>
   </p>
 </div>
 
